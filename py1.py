@@ -1,7 +1,4 @@
 
-
-
-
 def main():
     print("Hello, World! Mars    python hello_mars.py")
 
